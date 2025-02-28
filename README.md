@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF2F2,10:A9B5DF,30:7886C7,75:2D336B,100:2D336B&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF2F2,10:A9B5DF,30:7886C7,75:003092,100:2D336B&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 ## Taewon Song
 > Action! Take #WON
