@@ -12,4 +12,3 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-#F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Figma-#F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
