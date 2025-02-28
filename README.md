@@ -6,8 +6,6 @@ Action! Take #WON
 
 
 
-<a href="mailto:thdxodnjs03@gmail.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white&link=mailto:mailto:thdxodnjs03@gmail.com"/></a>
-
 
 ## Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
