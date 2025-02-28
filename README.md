@@ -5,7 +5,7 @@ Action! Take #WON
 
 <a href="https://trusted-menu-864.notion.site/Action-Take-WON-bae12ce2bf354fe091c23d489197bedc?pvs=74"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://trusted-menu-864.notion.site/Action-Take-WON-bae12ce2bf354fe091c23d489197bedc?pvs=74"/></a> 
 
-
+<a href="mailto:thdxodnjs03@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:thdxodnjs03@gmail.com"/></a>
 
 
 ## Skills
