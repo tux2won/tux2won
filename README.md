@@ -2,7 +2,7 @@
 
 ## Taewon Song
 Action! Take #WON
-<a href="https://trusted-menu-864.notion.site/Action-Take-WON-bae12ce2bf354fe091c23d489197bedc?pvs=74"><img src="https://img.shields.io/badge/뱃지이름-뱃지색상?style=flat-square&logo=로고이미지이름&logoColor=white&link=https://trusted-menu-864.notion.site/Action-Take-WON-bae12ce2bf354fe091c23d489197bedc?pvs=74"/></a> 
+<a href="https://trusted-menu-864.notion.site/Action-Take-WON-bae12ce2bf354fe091c23d489197bedc?pvs=74"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://trusted-menu-864.notion.site/Action-Take-WON-bae12ce2bf354fe091c23d489197bedc?pvs=74"/></a> 
 
 
 
